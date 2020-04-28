@@ -1,6 +1,6 @@
 {
   "name": "hubot-duckhunt",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "DuckHunt game for hubot",
   "main": "index.js",
   "scripts": {
